@@ -15,8 +15,8 @@ section .data:
 <table align="center">
   <tr>
     <td align="center"><img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rayn&layout=compact&theme=github_dark&hide=html,makefile,css&exclude_repo=Yona2.0,Nand2Tetris&hide_border=true&langs_count=6" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=0rayn&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" /></td>
-  </tr>
+<!--     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=0rayn&theme=github-dark-blue&hide_border=true&border_radius=5" alt="GitHub Streak" /></td>
+  </tr> -->
 </table>
  <p align="center">
    <a href="https://wakatime.com/@9e43aab5-a381-467f-b828-4e77e036edf0"><img src="https://wakatime.com/badge/user/9e43aab5-a381-467f-b828-4e77e036edf0.svg" alt="Total time coded since Dec 2 2024" />

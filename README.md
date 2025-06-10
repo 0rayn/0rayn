@@ -19,8 +19,6 @@ section .data:
   </tr> -->
 </table>
  <p align="center">
-   <a href="https://wakatime.com/@9e43aab5-a381-467f-b828-4e77e036edf0"><img src="https://wakatime.com/badge/user/9e43aab5-a381-467f-b828-4e77e036edf0.svg" alt="Total time coded since Dec 2 2024" />
-   </a>
   <a href="https://github.com/0rayn">
     <img src="https://komarev.com/ghpvc/?username=0rayn&color=blue&style=flat)" />
   </a>

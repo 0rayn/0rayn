@@ -23,17 +23,6 @@ section .data:
     <img src="https://komarev.com/ghpvc/?username=0rayn&color=blue&style=flat)" />
   </a>
 </p>
-<details>
-    <summary>Love to See More stats ? expand Me </summary>
-<p align="center">
-  <a href="https://github.com/0rayn">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0rayn&theme=transparent" />
-  </a>
-  <a href="https://github.com/0rayn">
-    <img src="https://github-readme-stats.vercel.app/api?username=0rayn&show_icons=true&theme=transparent&hide_border=true">
-  </a>
-<!--   <a href="https://github.com/0rayn">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0rayn&theme=transparent" />
-  </a> -->
-</p>
-</details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

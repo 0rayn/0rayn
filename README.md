@@ -29,8 +29,6 @@ section .data:
 
 > 📦 538.7 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -74,5 +72,5 @@ Mac                      29 mins             ███████████�
 ```
 
 
- Last Updated on 21/08/2025 18:47:55 UTC
+ Last Updated on 22/08/2025 18:48:04 UTC
 <!--END_SECTION:waka-->

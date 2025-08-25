@@ -29,8 +29,6 @@ section .data:
 
 > 📦 538.7 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -73,5 +71,5 @@ Linux                    36 mins             ███████████�
 ```
 
 
- Last Updated on 24/08/2025 18:45:51 UTC
+ Last Updated on 25/08/2025 18:49:49 UTC
 <!--END_SECTION:waka-->

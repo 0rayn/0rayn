@@ -5,7 +5,7 @@
 section .data:
   Name: db  "Taha Ed-Dafili",  0
   Work: db  "student at 1337", 0
-  Age:  dd  21
+  Age:  dd  22
 ```
 
 
